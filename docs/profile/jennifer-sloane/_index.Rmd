@@ -1,0 +1,13 @@
+---
+output: hugodown::md_document
+title: "Jennifer Sloane"
+date: 2021-03-06
+summary: ""
+trailer: "/profile_image/Jennifer-Sloane.jpg"
+splash:
+  image: "/profile_image/Jennifer-Sloane.jpg"
+  caption: "Jennifer Sloane"
+---
+
+> Jennifer is a second year PhD candidate in the area of cognitive psychology. She is broadly interested in studying medical decision-making. More specifically, her work investigates the effects of interruptions and explores possible strategies to attenuate interruption costs.
+
