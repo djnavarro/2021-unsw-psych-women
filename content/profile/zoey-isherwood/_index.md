@@ -1,0 +1,15 @@
+---
+output: hugodown::md_document
+title: "Zoey Isherwood"
+date: 2021-03-06
+summary: ""
+trailer: "/profile_image/Zoey-Isherwood.png"
+splash:
+  image: "/profile_image/Zoey-Isherwood.png"
+  caption: "Zoey Isherwood"
+rmd_hash: f6afe73a76221ed3
+
+---
+
+> Zoey is a PhD Candidate at UNSW Sydney and is supervised by Prof. Branka Spehar and Dr. Mark Schira. Before starting her PhD she completed a Bachelor of Science, majoring in neuroscience, and was also a research assistant. Her PhD project uses psychophysics and fMRI to broadly investigate the aesthetic appreciation and visual processing of natural scenes. She has presented her work at both domestic and international conferences.
+

@@ -32,9 +32,9 @@ write_profile_rmd <- function(profile) {
     paste0('title: "', profile$name, '"'),
     'date: 2021-03-06',
     'summary: ""',
-    paste0('trailer: "profile_image/', profile$img, '"'),
+    paste0('trailer: "/profile_image/', profile$img, '"'),
     'splash:',
-    '  image: ""',
+    paste0('  image: "/profile_image/', profile$img, '"'),
     paste0('  caption: "', profile$name, '"'),
     '---',
     '',
@@ -48,9 +48,14 @@ write_profile_rmd <- function(profile) {
   }
   write_lines(
     text = lines,
-    path = path(folder, "index.Rmd")
+    path = path(folder, "_index.Rmd")
   )
 }
+
+if(dir_exists(here("content", "profile"))){
+  dir_delete(here("content", "profile"))
+}
+dir_create(here("content", "profile"))
 
 profiles %>%
   walk(write_profile_rmd)

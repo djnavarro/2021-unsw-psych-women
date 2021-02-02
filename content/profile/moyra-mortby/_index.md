@@ -1,0 +1,15 @@
+---
+output: hugodown::md_document
+title: "Dr Moyra Mortby"
+date: 2021-03-06
+summary: ""
+trailer: "/profile_image/Moyra-Mortby.jpg"
+splash:
+  image: "/profile_image/Moyra-Mortby.jpg"
+  caption: "Dr Moyra Mortby"
+rmd_hash: 8173f6cfd8f3145e
+
+---
+
+> Moyra joined UNSW in 2018. She is an NHMRC-ARC Dementia Research Development Fellow. Moyra has developed a strong international research profile in the fields of dementia, neuropsychiatric symptoms, neuroimaging and epidemiology. Her research program involves a mixture of clinical and epidemiological research, with a strong focus on neuropsychiatric symptoms in dementia and prodromal stages of dementia, both in clinical/care and community settings.
+
