@@ -9,6 +9,17 @@
 
     {{ partial "profile_splash.html" . }}
 
+<!--
+    <div class="container" style="display:flex; flex-flow: row wrap; justify-content: space-evenly;width:90%">
+      <div class="column" style="float:left">
+        {{ .Content }}
+      </div>
+      <div class="column" style="float:right; width: 300px">
+        <img width=300px src={{ .Params.Trailer | relURL }}>
+      </div>
+    </div>
+-->
+
     <div class="container">
       <div class="row d-flex align-items-center">
         {{ .Content }}

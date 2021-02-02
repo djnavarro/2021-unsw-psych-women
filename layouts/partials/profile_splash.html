@@ -13,6 +13,7 @@
 
         {{ if isset .Params.Splash "caption" }}
           <div class="splash-caption-main">
+            <img width=300px src={{ .Params.Trailer | relURL }}>
             <div class="splash-caption-tweak">
               {{ .Params.Splash.Caption | markdownify }}
             </div>
