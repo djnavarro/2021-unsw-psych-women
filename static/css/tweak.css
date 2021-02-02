@@ -1,0 +1,44 @@
+/* ---------------- tweaked formatting for the splash images ---------------- */
+
+.splash-container {
+  width: 100%;
+  position: relative;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.splash-image-profile {
+  height: 40vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.splash-caption-container {
+  position: absolute;
+  bottom: 20%;
+  right: 15%;
+  width: 70%;
+}
+
+.splash-caption-prefix, .splash-caption-suffix {
+  position: relative;
+  color: #fff;
+  text-align: right;
+  font-size: 150%;
+  padding-bottom: 15px;
+}
+
+.splash-caption-main {
+  position: relative;
+  color: #fff;
+  text-align: right;
+  font-size: 200%;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  font-weight: 600;
+  padding-bottom: 15px;
+}
+
+.splash-caption-tweak { }
+
