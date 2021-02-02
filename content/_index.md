@@ -1,13 +1,13 @@
 ---
 output: hugodown::md_document
-title: "Diziet Theme for Hugo"
-summary: "Diziet Theme for Hugo"
+title: "UNSW Women in Psychological Science"
+summary: "UNSW Women in Psychological Science"
 splash:
-  image: "./splash/image1.png"
-  caption: "UNSW Women in Psychological Science"
+  image: "./splash/banner.jpg"
+  caption: "<span style='font-size: 150%'>UNSW Women in Psychological Science</span>"
   suffix: "International Women's Day 2021"
 trailer: "./splash/image1_smol.jpg"
-rmd_hash: ca1022125e23c2f7
+rmd_hash: 50ebea3ff53f51d7
 
 ---
 
