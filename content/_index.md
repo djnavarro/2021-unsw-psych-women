@@ -7,9 +7,13 @@ splash:
   caption: "<span style='font-size: 150%'>UNSW Women in Psychological Science</span>"
   suffix: "International Women's Day 2021"
 trailer: "./splash/image1_smol.jpg"
-rmd_hash: 9752a27e55e6aade
+rmd_hash: f42967ddb014e539
 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Fermentum et sollicitudin ac orci phasellus. Neque gravida in fermentum et. Libero enim sed faucibus turpis in eu mi. Fermentum et sollicitudin ac orci. Sit amet mattis vulputate enim nulla. At urna condimentum mattis pellentesque id nibh tortor id. Convallis a cras semper auctor. Elementum nisi quis eleifend quam adipiscing vitae proin sagittis nisl. Blandit libero volutpat sed cras ornare arcu dui. Nunc eget lorem dolor sed viverra. Bibendum neque egestas congue quisque egestas diam in arcu.
+International Women's Day exists to celebrate the social, economic, cultural and political achievements of women around the world, and dates back to the first meeting in 1911. Beyond celebration, however, the day is also call to action. It presents an opportunity to build a world in which everyone has an equal opportunity to participate fully in society. Each year the International Women's Day celebrations have a different theme: in 2021 the focus is on [\#ChooseToChallenge](https://www.internationalwomensday.com/Theme).
+
+We want to take this opportunity to celebrate our incredible women working in psychological science. The profiles presented below showcase just some of the women working in psychological research at UNSW and the diversity of the science they pursue. Click on any image to read about their work!
+
+If you would like to be featured, please email <a href="mailto:psychologyequity@unsw.edu.au" class="email">psychologyequity@unsw.edu.au</a>.
 
