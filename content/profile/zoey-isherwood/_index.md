@@ -5,9 +5,9 @@ date: 2021-03-06
 summary: ""
 trailer: "/profile_image/Zoey-Isherwood.png"
 splash:
-  image: "/profile_image/Zoey-Isherwood.png"
+  image: "/splash/banner.jpg"
   caption: "Zoey Isherwood"
-rmd_hash: f6afe73a76221ed3
+rmd_hash: 4002d8d35bd66ba2
 
 ---
 

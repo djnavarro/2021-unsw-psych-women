@@ -5,7 +5,7 @@ date: 2021-03-06
 summary: ""
 trailer: "/profile_image/Eva-Kimonis.jpg"
 splash:
-  image: "/profile_image/Eva-Kimonis.jpg"
+  image: "/splash/banner.jpg"
   caption: "Associate Professor Eva Kimonis"
 ---
 

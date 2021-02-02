@@ -5,9 +5,9 @@ date: 2021-03-06
 summary: ""
 trailer: "/profile_image/Kelly-Clemens.jpg"
 splash:
-  image: "/profile_image/Kelly-Clemens.jpg"
+  image: "/splash/banner.jpg"
   caption: "Dr Kelly Clemens"
-rmd_hash: 399668aaf6f47d80
+rmd_hash: 83a7a47b6638c8a9
 
 ---
 

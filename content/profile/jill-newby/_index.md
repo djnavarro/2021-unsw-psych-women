@@ -5,9 +5,9 @@ date: 2021-03-06
 summary: ""
 trailer: "/profile_image/Jill-Newby.jpg"
 splash:
-  image: "/profile_image/Jill-Newby.jpg"
+  image: "/splash/banner.jpg"
   caption: "Dr Jill Newby"
-rmd_hash: 5af55238b4146520
+rmd_hash: e9c3203a28baba96
 
 ---
 

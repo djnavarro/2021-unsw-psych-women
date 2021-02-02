@@ -5,9 +5,9 @@ date: 2021-03-06
 summary: ""
 trailer: "/profile_image/Jessamine-Chen.jpg"
 splash:
-  image: "/profile_image/Jessamine-Chen.jpg"
+  image: "/splash/banner.jpg"
   caption: "Jessamine Chen"
-rmd_hash: 60961c94223c6f9d
+rmd_hash: a2b146661fecadc2
 
 ---
 

@@ -5,9 +5,9 @@ date: 2021-03-06
 summary: ""
 trailer: "/profile_image/Brooke-Brady.jpg"
 splash:
-  image: "/profile_image/Brooke-Brady.jpg"
+  image: "/splash/banner.jpg"
   caption: "Brooke Brady"
-rmd_hash: bde260d7bca4eab1
+rmd_hash: bd20f30538527721
 
 ---
 

@@ -5,9 +5,9 @@ date: 2021-03-06
 summary: ""
 trailer: "/profile_image/Asheeta-Prasad.jpg"
 splash:
-  image: "/profile_image/Asheeta-Prasad.jpg"
+  image: "/splash/banner.jpg"
   caption: "Dr Asheeta Prasad"
-rmd_hash: 66e1d5a4577b78cd
+rmd_hash: dffd3b680b026a27
 
 ---
 

@@ -5,7 +5,7 @@ date: 2021-03-06
 summary: ""
 trailer: "/profile_image/Jill-Newby.jpg"
 splash:
-  image: "/profile_image/Jill-Newby.jpg"
+  image: "/splash/banner.jpg"
   caption: "Dr Jill Newby"
 ---
 

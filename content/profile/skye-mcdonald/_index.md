@@ -5,9 +5,9 @@ date: 2021-03-06
 summary: ""
 trailer: "/profile_image/Skye-McDonald.jpg"
 splash:
-  image: "/profile_image/Skye-McDonald.jpg"
+  image: "/splash/banner.jpg"
   caption: "Professor Skye McDonald"
-rmd_hash: 05980a2294c61c4e
+rmd_hash: aba0644d94e202c6
 
 ---
 

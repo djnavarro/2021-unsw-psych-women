@@ -5,9 +5,9 @@ date: 2021-03-06
 summary: ""
 trailer: "/profile_image/Elizabeth-Summerell.jpg"
 splash:
-  image: "/profile_image/Elizabeth-Summerell.jpg"
+  image: "/splash/banner.jpg"
   caption: "Elizabeth Summerell"
-rmd_hash: d5f3e7d44b36094e
+rmd_hash: 6e7ecc08ac92b0c4
 
 ---
 

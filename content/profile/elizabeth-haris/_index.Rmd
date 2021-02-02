@@ -5,7 +5,7 @@ date: 2021-03-06
 summary: ""
 trailer: "/profile_image/Elizabeth-Haris.jpg"
 splash:
-  image: "/profile_image/Elizabeth-Haris.jpg"
+  image: "/splash/banner.jpg"
   caption: "Elizabeth Haris"
 ---
 

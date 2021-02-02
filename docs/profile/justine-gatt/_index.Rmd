@@ -5,7 +5,7 @@ date: 2021-03-06
 summary: ""
 trailer: "/profile_image/Justine-Gatt.jpg"
 splash:
-  image: "/profile_image/Justine-Gatt.jpg"
+  image: "/splash/banner.jpg"
   caption: "Justine Gatt"
 ---
 

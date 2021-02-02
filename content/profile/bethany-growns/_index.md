@@ -5,9 +5,9 @@ date: 2021-03-06
 summary: ""
 trailer: "/profile_image/Bethany-Growns.jpg"
 splash:
-  image: "/profile_image/Bethany-Growns.jpg"
+  image: "/splash/banner.jpg"
   caption: "Bethany Growns"
-rmd_hash: 49253c2f7bd5e650
+rmd_hash: 38557a63e4dec48f
 
 ---
 

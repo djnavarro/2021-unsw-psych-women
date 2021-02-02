@@ -5,7 +5,7 @@ date: 2021-03-06
 summary: ""
 trailer: "/profile_image/Jessica-Lee.jpg"
 splash:
-  image: "/profile_image/Jessica-Lee.jpg"
+  image: "/splash/banner.jpg"
   caption: "Dr Jessica Lee"
 ---
 

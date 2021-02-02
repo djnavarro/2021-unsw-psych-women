@@ -5,9 +5,9 @@ date: 2021-03-06
 summary: ""
 trailer: "/profile_image/Lisa-Williams.jpg"
 splash:
-  image: "/profile_image/Lisa-Williams.jpg"
+  image: "/splash/banner.jpg"
   caption: "Associate Professor Lisa A. Williams"
-rmd_hash: 78b1a8cd61274db7
+rmd_hash: 1cf764a7155e03cb
 
 ---
 

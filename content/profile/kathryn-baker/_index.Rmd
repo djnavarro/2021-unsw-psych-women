@@ -5,7 +5,7 @@ date: 2021-03-06
 summary: ""
 trailer: "/profile_image/Kathryn-Baker.jpg"
 splash:
-  image: "/profile_image/Kathryn-Baker.jpg"
+  image: "/splash/banner.jpg"
   caption: "Dr Kathryn Baker"
 ---
 

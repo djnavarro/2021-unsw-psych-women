@@ -5,9 +5,9 @@ date: 2021-03-06
 summary: ""
 trailer: "/profile_image/Stephanie-Roughley.jpg"
 splash:
-  image: "/profile_image/Stephanie-Roughley.jpg"
+  image: "/splash/banner.jpg"
   caption: "Dr Stephanie Roughley"
-rmd_hash: 3c9ead210d77c230
+rmd_hash: 9fc3b814f33c91e8
 
 ---
 

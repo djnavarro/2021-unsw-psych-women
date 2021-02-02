@@ -5,7 +5,7 @@ date: 2021-03-06
 summary: ""
 trailer: "/profile_image/Anthea_Dana.jpg"
 splash:
-  image: "/profile_image/Anthea_Dana.jpg"
+  image: "/splash/banner.jpg"
   caption: "Anthea Stylianakis and Dana Leidl"
 ---
 

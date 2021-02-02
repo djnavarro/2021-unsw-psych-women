@@ -5,9 +5,9 @@ date: 2021-03-06
 summary: ""
 trailer: "/profile_image/Moyra-Mortby.jpg"
 splash:
-  image: "/profile_image/Moyra-Mortby.jpg"
+  image: "/splash/banner.jpg"
   caption: "Dr Moyra Mortby"
-rmd_hash: 8173f6cfd8f3145e
+rmd_hash: bf153a99a2374398
 
 ---
 

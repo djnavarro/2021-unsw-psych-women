@@ -5,9 +5,9 @@ date: 2021-03-06
 summary: ""
 trailer: "/profile_image/Jessica-Lee.jpg"
 splash:
-  image: "/profile_image/Jessica-Lee.jpg"
+  image: "/splash/banner.jpg"
   caption: "Dr Jessica Lee"
-rmd_hash: 8d3600757cf35a96
+rmd_hash: 622b1dddca6856f5
 
 ---
 

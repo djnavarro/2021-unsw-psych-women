@@ -5,9 +5,9 @@ date: 2021-03-06
 summary: ""
 trailer: "/profile_image/Barbara-Gillam.jpg"
 splash:
-  image: "/profile_image/Barbara-Gillam.jpg"
+  image: "/splash/banner.jpg"
   caption: "Professor Barbara Gillam"
-rmd_hash: 1def28a1235e24cb
+rmd_hash: a33f27a40d91f476
 
 ---
 

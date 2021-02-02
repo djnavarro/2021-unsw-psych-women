@@ -5,7 +5,7 @@ date: 2021-03-06
 summary: ""
 trailer: "/profile_image/Samantha-Spanos.jpg"
 splash:
-  image: "/profile_image/Samantha-Spanos.jpg"
+  image: "/splash/banner.jpg"
   caption: "Samantha Spanos"
 ---
 

@@ -5,7 +5,7 @@ date: 2021-03-06
 summary: ""
 trailer: "/profile_image/Siri_Lauren.jpg"
 splash:
-  image: "/profile_image/Siri_Lauren.jpg"
+  image: "/splash/banner.jpg"
   caption: "Siri Damathman and Lauren Brouwer-French"
 ---
 

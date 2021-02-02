@@ -5,9 +5,9 @@ date: 2021-03-06
 summary: ""
 trailer: "/profile_image/Lillian-Le.jpg"
 splash:
-  image: "/profile_image/Lillian-Le.jpg"
+  image: "/splash/banner.jpg"
   caption: "Lillian Le"
-rmd_hash: c1367afd3941a795
+rmd_hash: 4704350ae91fdf1d
 
 ---
 

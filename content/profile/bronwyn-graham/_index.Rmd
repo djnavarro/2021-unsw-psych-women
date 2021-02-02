@@ -5,7 +5,7 @@ date: 2021-03-06
 summary: ""
 trailer: "/profile_image/Bronwyn-Graham.jpg"
 splash:
-  image: "/profile_image/Bronwyn-Graham.jpg"
+  image: "/splash/banner.jpg"
   caption: "Associate Professor Bronwyn Graham"
 ---
 

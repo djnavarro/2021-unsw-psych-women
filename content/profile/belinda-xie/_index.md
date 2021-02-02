@@ -5,9 +5,9 @@ date: 2021-03-06
 summary: ""
 trailer: "/profile_image/Belinda-Xie.jpg"
 splash:
-  image: "/profile_image/Belinda-Xie.jpg"
+  image: "/splash/banner.jpg"
   caption: "Belinda Xie"
-rmd_hash: e71e2288baa04c51
+rmd_hash: 1610eae3e2447705
 
 ---
 

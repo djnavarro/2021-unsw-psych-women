@@ -5,9 +5,9 @@ date: 2021-03-06
 summary: ""
 trailer: "/profile_image/Justine-Gatt.jpg"
 splash:
-  image: "/profile_image/Justine-Gatt.jpg"
+  image: "/splash/banner.jpg"
   caption: "Justine Gatt"
-rmd_hash: 98df04432f4dc63e
+rmd_hash: 6a673bd92f51d9e8
 
 ---
 

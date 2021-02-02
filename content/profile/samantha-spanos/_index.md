@@ -5,9 +5,9 @@ date: 2021-03-06
 summary: ""
 trailer: "/profile_image/Samantha-Spanos.jpg"
 splash:
-  image: "/profile_image/Samantha-Spanos.jpg"
+  image: "/splash/banner.jpg"
   caption: "Samantha Spanos"
-rmd_hash: 3dbce777318164f3
+rmd_hash: eadf418a2473bdb7
 
 ---
 

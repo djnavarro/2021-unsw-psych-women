@@ -34,7 +34,7 @@ write_profile_rmd <- function(profile) {
     'summary: ""',
     paste0('trailer: "/profile_image/', profile$img, '"'),
     'splash:',
-    paste0('  image: "/profile_image/', profile$img, '"'),
+    paste0('  image: "/splash/banner.jpg"'),
     paste0('  caption: "', profile$name, '"'),
     '---',
     '',

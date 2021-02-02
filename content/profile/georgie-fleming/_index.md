@@ -5,9 +5,9 @@ date: 2021-03-06
 summary: ""
 trailer: "/profile_image/Georgie-Fleming.jpg"
 splash:
-  image: "/profile_image/Georgie-Fleming.jpg"
+  image: "/splash/banner.jpg"
   caption: "Georgie Fleming"
-rmd_hash: 7702f7a1a8b91f17
+rmd_hash: 5cbaed7909d3dc71
 
 ---
 

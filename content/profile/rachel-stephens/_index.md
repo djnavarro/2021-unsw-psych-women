@@ -5,9 +5,9 @@ date: 2021-03-06
 summary: ""
 trailer: "/profile_image/Rachel-Stephens.jpg"
 splash:
-  image: "/profile_image/Rachel-Stephens.jpg"
+  image: "/splash/banner.jpg"
   caption: "Dr Rachel Stephens"
-rmd_hash: 7f82271c12352667
+rmd_hash: c90b836cce9a150b
 
 ---
 

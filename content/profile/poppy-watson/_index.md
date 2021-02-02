@@ -5,9 +5,9 @@ date: 2021-03-06
 summary: ""
 trailer: "/profile_image/Poppy-Watson.jpg"
 splash:
-  image: "/profile_image/Poppy-Watson.jpg"
+  image: "/splash/banner.jpg"
   caption: "Dr Poppy Watson"
-rmd_hash: 268524032b778bd9
+rmd_hash: bc3b6ab0a849a5b9
 
 ---
 

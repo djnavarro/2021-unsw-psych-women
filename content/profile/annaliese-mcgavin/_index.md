@@ -5,9 +5,9 @@ date: 2021-03-06
 summary: ""
 trailer: "/profile_image/Annaliese-McGavin.jpg"
 splash:
-  image: "/profile_image/Annaliese-McGavin.jpg"
+  image: "/splash/banner.jpg"
   caption: "Annaliese McGavin"
-rmd_hash: 83fc15790f1e513e
+rmd_hash: cd57be101fc8582c
 
 ---
 

@@ -5,9 +5,9 @@ date: 2021-03-06
 summary: ""
 trailer: "/profile_image/Branka-Spehar.jpg"
 splash:
-  image: "/profile_image/Branka-Spehar.jpg"
+  image: "/splash/banner.jpg"
   caption: "Professor Branka Spehar"
-rmd_hash: f3dfaf4792243a58
+rmd_hash: 8ef4749e27104b06
 
 ---
 

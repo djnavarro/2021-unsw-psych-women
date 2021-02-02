@@ -5,9 +5,9 @@ date: 2021-03-06
 summary: ""
 trailer: "/profile_image/Sophie-Li.jpg"
 splash:
-  image: "/profile_image/Sophie-Li.jpg"
+  image: "/splash/banner.jpg"
   caption: "Dr Sophie Li"
-rmd_hash: 118fb1b0725d72c9
+rmd_hash: a9e20e602aaca65d
 
 ---
 

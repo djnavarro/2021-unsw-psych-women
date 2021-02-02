@@ -5,9 +5,9 @@ date: 2021-03-06
 summary: ""
 trailer: "/profile_image/Saoirse-Connor-Desai.png"
 splash:
-  image: "/profile_image/Saoirse-Connor-Desai.png"
+  image: "/splash/banner.jpg"
   caption: "Saoirse Connor Desai"
-rmd_hash: 30742941203bf4a5
+rmd_hash: 0cbbf346590ae221
 
 ---
 

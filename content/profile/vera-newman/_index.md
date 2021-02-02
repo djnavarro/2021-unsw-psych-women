@@ -5,9 +5,9 @@ date: 2021-03-06
 summary: ""
 trailer: "/profile_image/Vera-Newman.jpg"
 splash:
-  image: "/profile_image/Vera-Newman.jpg"
+  image: "/splash/banner.jpg"
   caption: "Vera Newman"
-rmd_hash: 9ecaa03bd23b7981
+rmd_hash: 8d300f0047b0391b
 
 ---
 

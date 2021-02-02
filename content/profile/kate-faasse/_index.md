@@ -5,9 +5,9 @@ date: 2021-03-06
 summary: ""
 trailer: "/profile_image/Kate-Faasse.jpg"
 splash:
-  image: "/profile_image/Kate-Faasse.jpg"
+  image: "/splash/banner.jpg"
   caption: "Dr Kate Faasse"
-rmd_hash: cd545a7e1f255cc5
+rmd_hash: 6f91d4ba2b0e7752
 
 ---
 

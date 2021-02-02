@@ -5,9 +5,9 @@ date: 2021-03-06
 summary: ""
 trailer: "/profile_image/Halle-Quang.jpg"
 splash:
-  image: "/profile_image/Halle-Quang.jpg"
+  image: "/splash/banner.jpg"
   caption: "Halle Quang"
-rmd_hash: a4b42fb57cd5287b
+rmd_hash: 997357255988d57b
 
 ---
 

@@ -5,9 +5,9 @@ date: 2021-03-06
 summary: ""
 trailer: "/profile_image/Justine-Fam.jpg"
 splash:
-  image: "/profile_image/Justine-Fam.jpg"
+  image: "/splash/banner.jpg"
   caption: "Dr Justine Fam"
-rmd_hash: d9c2f825527ddd1c
+rmd_hash: 3528f174b49ec601
 
 ---
 

@@ -5,9 +5,9 @@ date: 2021-03-06
 summary: ""
 trailer: "/profile_image/Kaarin-Anstey.jpg"
 splash:
-  image: "/profile_image/Kaarin-Anstey.jpg"
+  image: "/splash/banner.jpg"
   caption: "Professor Kaarin Anstey"
-rmd_hash: 38f216df0cef4d25
+rmd_hash: f6153cd96b1fc861
 
 ---
 

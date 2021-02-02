@@ -5,9 +5,9 @@ date: 2021-03-06
 summary: ""
 trailer: "/profile_image/Bronwyn-Graham.jpg"
 splash:
-  image: "/profile_image/Bronwyn-Graham.jpg"
+  image: "/splash/banner.jpg"
   caption: "Associate Professor Bronwyn Graham"
-rmd_hash: 62e5c3f15d8aa4fc
+rmd_hash: 679a467bf8f2fc69
 
 ---
 

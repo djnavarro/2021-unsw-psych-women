@@ -5,9 +5,9 @@ date: 2021-03-06
 summary: ""
 trailer: "/profile_image/Ratih-Arruum-Listiyandini.jpg"
 splash:
-  image: "/profile_image/Ratih-Arruum-Listiyandini.jpg"
+  image: "/splash/banner.jpg"
   caption: "Ratih Arruum Listiyandini"
-rmd_hash: d96669b0b3d556b4
+rmd_hash: 816494bcb83936b9
 
 ---
 

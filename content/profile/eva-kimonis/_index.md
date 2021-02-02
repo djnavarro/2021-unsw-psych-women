@@ -5,9 +5,9 @@ date: 2021-03-06
 summary: ""
 trailer: "/profile_image/Eva-Kimonis.jpg"
 splash:
-  image: "/profile_image/Eva-Kimonis.jpg"
+  image: "/splash/banner.jpg"
   caption: "Associate Professor Eva Kimonis"
-rmd_hash: 979a469ff7b52ffc
+rmd_hash: 8c2bb64e86e4eae3
 
 ---
 

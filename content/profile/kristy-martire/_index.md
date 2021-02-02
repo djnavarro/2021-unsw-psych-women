@@ -5,9 +5,9 @@ date: 2021-03-06
 summary: ""
 trailer: "/profile_image/Kristy-Martire.png"
 splash:
-  image: "/profile_image/Kristy-Martire.png"
+  image: "/splash/banner.jpg"
   caption: "Associate Professor Kristy Martire"
-rmd_hash: 419a503ac9f00c7d
+rmd_hash: a3cd5d0be81a40fa
 
 ---
 

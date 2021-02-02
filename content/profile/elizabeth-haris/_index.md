@@ -5,9 +5,9 @@ date: 2021-03-06
 summary: ""
 trailer: "/profile_image/Elizabeth-Haris.jpg"
 splash:
-  image: "/profile_image/Elizabeth-Haris.jpg"
+  image: "/splash/banner.jpg"
   caption: "Elizabeth Haris"
-rmd_hash: 83760adf517089ee
+rmd_hash: 36c94526f8673a10
 
 ---
 

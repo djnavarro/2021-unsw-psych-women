@@ -5,9 +5,9 @@ date: 2021-03-06
 summary: ""
 trailer: "/profile_image/Stephanie-Summersby.jpg"
 splash:
-  image: "/profile_image/Stephanie-Summersby.jpg"
+  image: "/splash/banner.jpg"
   caption: "Stephanie Summersby"
-rmd_hash: 0171f58f7869e5b3
+rmd_hash: 22b8ff0227fa00d6
 
 ---
 

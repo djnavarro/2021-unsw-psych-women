@@ -5,9 +5,9 @@ date: 2021-03-06
 summary: ""
 trailer: "/profile_image/Lydia-Hayward.jpg"
 splash:
-  image: "/profile_image/Lydia-Hayward.jpg"
+  image: "/splash/banner.jpg"
   caption: "Dr Lydia Hayward"
-rmd_hash: e9b79e43331e2c09
+rmd_hash: e6dc12a83a0917ca
 
 ---
 

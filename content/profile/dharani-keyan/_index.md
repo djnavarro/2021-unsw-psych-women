@@ -5,9 +5,9 @@ date: 2021-03-06
 summary: ""
 trailer: "/profile_image/Dharani-Keyan.jpg"
 splash:
-  image: "/profile_image/Dharani-Keyan.jpg"
+  image: "/splash/banner.jpg"
   caption: "Dharani Keyan"
-rmd_hash: 3fe1dc9d112749c4
+rmd_hash: 3dabb77862cc11c9
 
 ---
 

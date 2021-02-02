@@ -5,7 +5,7 @@ date: 2021-03-06
 summary: ""
 trailer: "/profile_image/Kate-Faasse.jpg"
 splash:
-  image: "/profile_image/Kate-Faasse.jpg"
+  image: "/splash/banner.jpg"
   caption: "Dr Kate Faasse"
 ---
 

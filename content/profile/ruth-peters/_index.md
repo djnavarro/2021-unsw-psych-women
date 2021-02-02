@@ -5,9 +5,9 @@ date: 2021-03-06
 summary: ""
 trailer: "/profile_image/Ruth-Peters.jpg"
 splash:
-  image: "/profile_image/Ruth-Peters.jpg"
+  image: "/splash/banner.jpg"
   caption: "Dr Ruth Peters"
-rmd_hash: 23c7ffe192de438c
+rmd_hash: 4d1f589b379a8547
 
 ---
 

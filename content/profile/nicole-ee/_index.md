@@ -5,9 +5,9 @@ date: 2021-03-06
 summary: ""
 trailer: "/profile_image/Nicole-Ee.jpg"
 splash:
-  image: "/profile_image/Nicole-Ee.jpg"
+  image: "/splash/banner.jpg"
   caption: "Nicole Ee"
-rmd_hash: 1595a57e17f6a035
+rmd_hash: db5aac666a0f5ef3
 
 ---
 

@@ -5,9 +5,9 @@ date: 2021-03-06
 summary: ""
 trailer: "/profile_image/Catherine-Viengkham.jpg"
 splash:
-  image: "/profile_image/Catherine-Viengkham.jpg"
+  image: "/splash/banner.jpg"
   caption: "Catherine Viengkham"
-rmd_hash: 910c4b3513ad6469
+rmd_hash: aeb30d66063afe8f
 
 ---
 

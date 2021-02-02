@@ -5,9 +5,9 @@ date: 2021-03-06
 summary: ""
 trailer: "/profile_image/Jenna-Zhao.jpg"
 splash:
-  image: "/profile_image/Jenna-Zhao.jpg"
+  image: "/splash/banner.jpg"
   caption: "Jenna Zhao"
-rmd_hash: 3fea700d3e81d3d8
+rmd_hash: 5b5a5d90e988c856
 
 ---
 

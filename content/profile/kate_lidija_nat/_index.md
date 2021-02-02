@@ -5,9 +5,9 @@ date: 2021-03-06
 summary: ""
 trailer: "/profile_image/Kate_Lidija_Nat.jpg"
 splash:
-  image: "/profile_image/Kate_Lidija_Nat.jpg"
+  image: "/splash/banner.jpg"
   caption: "Drs Lidija Krebs-Lazendic, Natalie Rogers, and Kate Hutton-Bedbrook"
-rmd_hash: d859d3ce7c4daa15
+rmd_hash: 5a36ecb8f7f85c9b
 
 ---
 

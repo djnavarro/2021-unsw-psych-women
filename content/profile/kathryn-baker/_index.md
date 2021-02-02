@@ -5,9 +5,9 @@ date: 2021-03-06
 summary: ""
 trailer: "/profile_image/Kathryn-Baker.jpg"
 splash:
-  image: "/profile_image/Kathryn-Baker.jpg"
+  image: "/splash/banner.jpg"
   caption: "Dr Kathryn Baker"
-rmd_hash: 07ff9a63aeb82ab7
+rmd_hash: cb5c4d58155da72e
 
 ---
 

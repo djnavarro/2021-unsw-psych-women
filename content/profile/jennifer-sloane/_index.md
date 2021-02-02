@@ -5,9 +5,9 @@ date: 2021-03-06
 summary: ""
 trailer: "/profile_image/Jennifer-Sloane.jpg"
 splash:
-  image: "/profile_image/Jennifer-Sloane.jpg"
+  image: "/splash/banner.jpg"
   caption: "Jennifer Sloane"
-rmd_hash: 537e1cf18614adcd
+rmd_hash: 46800e1ac5a9ed9e
 
 ---
 
