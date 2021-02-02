@@ -9,6 +9,16 @@
 
     {{ partial "splash.html" . }}
 
+    <div class="container">
+      <div style="font-size:120%">
+        <br>
+        <br>
+        {{ .Content }}
+        <br>
+        <br>
+      </div>
+    </div>
+
     {{ partial "profiles.html" . }}
 
     {{ partial "footer.html" . }}
