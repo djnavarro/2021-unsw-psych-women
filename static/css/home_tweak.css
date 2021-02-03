@@ -1,5 +1,44 @@
 
 
+.splash-caption-main-2 {
+  position: relative;
+  color: #fff;
+  text-align: right;
+  font-size: 300%;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  font-weight: 600;
+  padding-bottom: 15px;
+}
+
+.splash-caption-prefix-2, .splash-caption-suffix-2 {
+  position: relative;
+  color: #fff;
+  text-align: right;
+  font-size: 200%;
+  padding-bottom: 15px;
+}
+
+@media (max-width: 1199px) {  /* medium screens */
+  .splash-caption-main-2 {
+    font-size: 250%;
+  }
+  .splash-caption-prefix-2, .splash-caption-suffix-2 {
+    font-size: 150%;
+  }
+}
+
+@media (max-width: 991px) { /* small screens */
+  .splash-caption-main-2 {
+    font-size: 150%;
+  }
+  .splash-caption-prefix-2, .splash-caption-suffix-2 {
+    font-size: 100%;
+  }
+}
+
+
+
 /* ---------------- formatting tiles in a gallery--------------- */
 
 .gal p {

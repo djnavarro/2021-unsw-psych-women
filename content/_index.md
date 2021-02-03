@@ -4,10 +4,10 @@ title: "UNSW Women in Psychological Science"
 summary: "UNSW Women in Psychological Science"
 splash:
   image: "./splash/banner.jpg"
-  caption: "<span style='font-size: 150%'>UNSW Women in Psychological Science</span>"
+  caption: "UNSW Women in Psychological Science"
   suffix: "International Women's Day 2021"
 trailer: "./splash/image1_smol.jpg"
-rmd_hash: 0a5ae2accfcac973
+rmd_hash: 02073d0900e3cc02
 
 ---
 
