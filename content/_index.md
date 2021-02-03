@@ -7,7 +7,7 @@ splash:
   caption: "<span style='font-size: 150%'>UNSW Women in Psychological Science</span>"
   suffix: "International Women's Day 2021"
 trailer: "./splash/image1_smol.jpg"
-rmd_hash: f42967ddb014e539
+rmd_hash: 0a5ae2accfcac973
 
 ---
 

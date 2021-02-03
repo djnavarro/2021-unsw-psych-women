@@ -9,7 +9,6 @@ splash:
 trailer: "./splash/image1_smol.jpg"
 ---
 
-
 International Women’s Day exists to celebrate the social, economic, cultural and political achievements of women around the world, and dates back to the first meeting in 1911. Beyond celebration, however, the day is also call to action. It presents an opportunity to build a world in which everyone has an equal opportunity to participate fully in society. Each year the International Women’s Day celebrations have a different theme: in 2021 the focus is on [#ChooseToChallenge](https://www.internationalwomensday.com/Theme). 
 
 We want to take this opportunity to celebrate our incredible women working in psychological science. The profiles presented below showcase just some of the women working in psychological research at UNSW and the diversity of the science they pursue. Click on any image to read about their work! 
