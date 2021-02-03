@@ -35,9 +35,9 @@ theme = "diziet"
 
 
 [params]
-    description = "A website of one's own"
-    footer = "A footer of one's own"
-    site = "https://djnavarro.github.io/hugo-diziet"
+    description = "UNSW Women in Psychological Science"
+    footer = "[: : :](/)"
+    site = "https://unsw-psych-women.org"
 
 
 # additional settings

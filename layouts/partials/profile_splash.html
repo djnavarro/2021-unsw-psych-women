@@ -12,8 +12,8 @@
         {{ end }}
 
         {{ if isset .Params.Splash "caption" }}
-          <div class="splash-caption-main">
-            <img width=300px src={{ .Params.Trailer | relURL }}>
+          <div class="splash-caption-main-3">
+            <img style="padding-top:30px" height=300px src={{ .Params.Trailer | relURL }}>
             <div class="splash-caption-tweak">
               {{ .Params.Splash.Caption | markdownify }}
             </div>
