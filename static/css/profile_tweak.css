@@ -8,24 +8,11 @@
 }
 
 .splash-image-profile {
-  height: 60vh;
+  height: 550px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
-
-@media (max-width: 1199px) {  /* medium screens */
-  .splash-image-profile{
-    height: 80vh;
-  }
-}
-
-@media (max-width: 991px) { /* small screens */
-  .splash-image-profile{
-    height: 100vh;
-  }
-}
-
 
 .splash-caption-container {
   position: absolute;
