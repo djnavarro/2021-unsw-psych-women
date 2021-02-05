@@ -7,7 +7,7 @@ trailer: "/profile_image/Kaarin-Anstey.jpg"
 splash:
   image: "/splash/banner.jpg"
   caption: "Professor Kaarin Anstey"
-rmd_hash: f6153cd96b1fc861
+rmd_hash: 1f939dd8606e17b8
 
 ---
 

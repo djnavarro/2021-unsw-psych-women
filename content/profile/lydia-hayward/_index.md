@@ -7,7 +7,7 @@ trailer: "/profile_image/Lydia-Hayward.jpg"
 splash:
   image: "/splash/banner.jpg"
   caption: "Dr Lydia Hayward"
-rmd_hash: e6dc12a83a0917ca
+rmd_hash: e5cbbbc842b728d7
 
 ---
 

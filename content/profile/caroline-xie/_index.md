@@ -7,7 +7,7 @@ trailer: "/profile_image/Caroline-Xie.jpg"
 splash:
   image: "/splash/banner.jpg"
   caption: "Caroline Xie"
-rmd_hash: a998118179f39f8a
+rmd_hash: 42e69b6a4811f7f1
 
 ---
 

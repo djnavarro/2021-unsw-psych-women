@@ -7,7 +7,7 @@ trailer: "/profile_image/Sophie-Li.jpg"
 splash:
   image: "/splash/banner.jpg"
   caption: "Dr Sophie Li"
-rmd_hash: a9e20e602aaca65d
+rmd_hash: 3b94f898a1ee3ca3
 
 ---
 

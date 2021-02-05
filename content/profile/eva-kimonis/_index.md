@@ -7,7 +7,7 @@ trailer: "/profile_image/Eva-Kimonis.jpg"
 splash:
   image: "/splash/banner.jpg"
   caption: "Associate Professor Eva Kimonis"
-rmd_hash: 8c2bb64e86e4eae3
+rmd_hash: 737f9c5cf910242a
 
 ---
 

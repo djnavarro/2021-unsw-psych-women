@@ -7,7 +7,7 @@ trailer: "/profile_image/Vera-Newman.jpg"
 splash:
   image: "/splash/banner.jpg"
   caption: "Vera Newman"
-rmd_hash: 8d300f0047b0391b
+rmd_hash: d0052359182b7897
 
 ---
 

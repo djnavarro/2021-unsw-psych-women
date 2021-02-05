@@ -7,7 +7,7 @@ trailer: "/profile_image/Kelly-Clemens.jpg"
 splash:
   image: "/splash/banner.jpg"
   caption: "Dr Kelly Clemens"
-rmd_hash: 83a7a47b6638c8a9
+rmd_hash: 647122ad18782bc8
 
 ---
 

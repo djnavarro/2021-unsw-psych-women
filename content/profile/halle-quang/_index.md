@@ -7,7 +7,7 @@ trailer: "/profile_image/Halle-Quang.jpg"
 splash:
   image: "/splash/banner.jpg"
   caption: "Halle Quang"
-rmd_hash: 997357255988d57b
+rmd_hash: fdd120d88f080fa5
 
 ---
 

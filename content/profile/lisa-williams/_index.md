@@ -7,7 +7,7 @@ trailer: "/profile_image/Lisa-Williams.jpg"
 splash:
   image: "/splash/banner.jpg"
   caption: "Associate Professor Lisa A. Williams"
-rmd_hash: 1cf764a7155e03cb
+rmd_hash: 49bb4c211b7a415a
 
 ---
 

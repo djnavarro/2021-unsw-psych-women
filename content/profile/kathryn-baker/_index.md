@@ -7,7 +7,7 @@ trailer: "/profile_image/Kathryn-Baker.jpg"
 splash:
   image: "/splash/banner.jpg"
   caption: "Dr Kathryn Baker"
-rmd_hash: cb5c4d58155da72e
+rmd_hash: ac0a7b75c7425d13
 
 ---
 

@@ -10,4 +10,3 @@ splash:
 ---
 
 > Kathryn is an ARC Discovery Early Career Researcher. She is interested in understanding why fear is difficult to inhibit during adolescence. Her research investigates the behavioural, pharmacological, and neural mechanisms of fear extinction in adolescence. Some of this work is currently examining how the maturation of neural connections in the adolescent brain affects fear inhibition.
-

@@ -10,4 +10,3 @@ splash:
 ---
 
 > Jennifer is a second year PhD candidate in the area of cognitive psychology. She is broadly interested in studying medical decision-making. More specifically, her work investigates the effects of interruptions and explores possible strategies to attenuate interruption costs.
-

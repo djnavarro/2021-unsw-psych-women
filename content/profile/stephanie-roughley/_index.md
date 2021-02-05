@@ -7,7 +7,7 @@ trailer: "/profile_image/Stephanie-Roughley.jpg"
 splash:
   image: "/splash/banner.jpg"
   caption: "Dr Stephanie Roughley"
-rmd_hash: 9fc3b814f33c91e8
+rmd_hash: 778719bfd9c06a16
 
 ---
 

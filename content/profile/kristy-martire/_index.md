@@ -7,7 +7,7 @@ trailer: "/profile_image/Kristy-Martire.png"
 splash:
   image: "/splash/banner.jpg"
   caption: "Associate Professor Kristy Martire"
-rmd_hash: a3cd5d0be81a40fa
+rmd_hash: 2de461026faa2bcd
 
 ---
 

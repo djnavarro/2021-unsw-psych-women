@@ -10,4 +10,3 @@ splash:
 ---
 
 > Vera is a PhD candidate investigating how stress impacts on cognitive ability, and how we might be able to harness specific strategies to mitigate this effect. She is particularly interested in how we can apply knowledge from the behavioural sciences to societal and policy issues, thereby enabling individuals to make informed and agentic decisions.
-

@@ -7,7 +7,7 @@ trailer: "/profile_image/Skye-McDonald.jpg"
 splash:
   image: "/splash/banner.jpg"
   caption: "Professor Skye McDonald"
-rmd_hash: aba0644d94e202c6
+rmd_hash: 9ac3f1dc31890789
 
 ---
 

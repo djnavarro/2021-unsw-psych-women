@@ -7,7 +7,7 @@ trailer: "/profile_image/Kate-Faasse.jpg"
 splash:
   image: "/splash/banner.jpg"
   caption: "Dr Kate Faasse"
-rmd_hash: 6f91d4ba2b0e7752
+rmd_hash: c9eba3cab1bf9060
 
 ---
 

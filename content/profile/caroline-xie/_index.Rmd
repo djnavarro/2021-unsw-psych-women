@@ -10,4 +10,3 @@ splash:
 ---
 
 > Caroline Xie is an Honours student working with Dr Asheeta Prasad. Her thesis is examining the underlying mechanisms of deep brain stimulation in Parkinson's disease.
-

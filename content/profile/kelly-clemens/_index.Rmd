@@ -10,4 +10,3 @@ splash:
 ---
 
 > Kelly is a Lecturer and current UNSW Scientia Fellow. She is trying to figure out why people can relapse to drug abuse after periods of abstinence. This includes looking at pharmacological and molecular changes in the brain that occur in response to drug exposure, and that can persist across abstinence.
-

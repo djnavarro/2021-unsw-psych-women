@@ -7,7 +7,7 @@ trailer: "/profile_image/Jill-Newby.jpg"
 splash:
   image: "/splash/banner.jpg"
   caption: "Dr Jill Newby"
-rmd_hash: e9c3203a28baba96
+rmd_hash: cf7a60927a678a5f
 
 ---
 

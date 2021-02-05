@@ -7,7 +7,7 @@ trailer: "/profile_image/Branka-Spehar.jpg"
 splash:
   image: "/splash/banner.jpg"
   caption: "Professor Branka Spehar"
-rmd_hash: 8ef4749e27104b06
+rmd_hash: f919bf9653b94d40
 
 ---
 

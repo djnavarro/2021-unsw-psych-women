@@ -7,7 +7,7 @@ trailer: "/profile_image/Elizabeth-Summerell.jpg"
 splash:
   image: "/splash/banner.jpg"
   caption: "Elizabeth Summerell"
-rmd_hash: 6e7ecc08ac92b0c4
+rmd_hash: 1ec9929b2374a14f
 
 ---
 

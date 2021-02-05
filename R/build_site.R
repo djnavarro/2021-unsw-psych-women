@@ -38,9 +38,15 @@ write_profile_rmd <- function(profile) {
     paste0('  caption: "', profile$name, '"'),
     '---',
     '',
-    paste0('> ', profile$text),
-    ''
+    paste0('> ', profile$text)
   )
+
+  if(!is.na(profile$quote)) {
+    lines <- c(
+      lines,
+      paste0('<blockquote><p><i>"', profile$quote, '"</i></p></blockquote>')
+    )
+  }
 
   folder <- here("content", "profile", profile$dir)
   if(!dir_exists(folder)) {

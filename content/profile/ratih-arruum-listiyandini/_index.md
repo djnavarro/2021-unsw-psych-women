@@ -7,7 +7,7 @@ trailer: "/profile_image/Ratih-Arruum-Listiyandini.jpg"
 splash:
   image: "/splash/banner.jpg"
   caption: "Ratih Arruum Listiyandini"
-rmd_hash: 816494bcb83936b9
+rmd_hash: 50476102e73c875d
 
 ---
 

@@ -10,4 +10,3 @@ splash:
 ---
 
 > Bethany is a PhD Candidate at UNSW Sydney. She is particularly interested in how we can apply cognitive psychology to real-world issues. Her research focuses on the cognitive mechanisms that underlie forensic science expertise. She is interested in how professionals within the criminal justice system, such as fingerprint examiners, learn and make decisions and how this contributes to their work.
-
