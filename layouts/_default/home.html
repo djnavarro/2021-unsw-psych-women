@@ -21,6 +21,14 @@
 
     {{ partial "profiles.html" . }}
 
+    {{ with .Site.Params.footer }}
+      <div class="container">
+      <div class="footer-bottom">
+        <span style="color:#666">source: {{ . | markdownify }}</span>
+      </div>
+      </div>
+    {{ end }}
+
     {{ partial "footer.html" . }}
 
   </body>
