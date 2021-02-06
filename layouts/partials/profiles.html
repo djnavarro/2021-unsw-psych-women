@@ -8,7 +8,8 @@
   {{ range .Sections }}
   {{ if isset .Params "trailer" }}
 
-    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 p-2">
+    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 p-0">
+      <div class="gal-outer-container"><div class="gal-inner-container">
       <a href="{{ .URL }}">
         <img class="img-fluid gal-img" src={{ .Params.Trailer | relURL }}>
         <div class="gal-caption-box-2">
@@ -16,6 +17,7 @@
             {{ .Title | markdownify }}
           </div>
         </div>
+      </div></div>
       </a>
     </div>
 

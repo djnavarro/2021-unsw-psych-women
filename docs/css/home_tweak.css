@@ -63,8 +63,6 @@
 .gal-caption-box-2 {
   background-color: #22222288;
   position: absolute;
-  padding-left: 15px;
-  padding-right: 15px;
   top: 70%;
   left: 0;
   width: 100%;
@@ -73,15 +71,26 @@
 
 .gal-caption-text-2 {
   color: white;
-  font-size: 120%;
+  font-size: 100%;
   font-weight: 400;
   position: absolute;
-  width: 85%;
   bottom: 10%;
+  width: 70%;
+  padding-left: 5%;
+  padding-bottom: 5%;
 }
 
-/*.gal img {
+.gal-img {
   width: 100%;
-  padding: 7px 0;
-}*/
+  padding: 10px 10px;
+}
 
+
+.gal-outer-container{
+  width: 100%;
+  float: left;
+}
+.gal-inner-container{
+  width: 100%;
+  float: right;
+}
