@@ -10,7 +10,7 @@
 
     <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 p-2">
       <a href="{{ .URL }}">
-        <img class="img-fluid" width=300px src={{ .Params.Trailer | relURL }}>
+        <img class="img-fluid gal-img" src={{ .Params.Trailer | relURL }}>
         <div class="gal-caption-box-2">
           <div class="gal-caption-text-2">
             {{ .Title | markdownify }}

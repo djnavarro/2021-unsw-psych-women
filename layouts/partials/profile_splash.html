@@ -1,8 +1,10 @@
 
+
+
 <!-- start splash area -->
 <section>
-  <div class="splash-container">
-    <div class="splash-image-profile" style='background-image: url("{{ .Params.Splash.Image }}");'></div>
+  <div class="splash-container-3">
+    <div class="splash-image-profile-3" style='background-image: url("{{ .Params.Splash.Image }}");'>
     <div class="splash-caption-container">
 
         {{ if isset .Params.Splash "prefix" }}
@@ -13,7 +15,7 @@
 
         {{ if isset .Params.Splash "caption" }}
           <div class="splash-caption-main-3">
-            <img style="padding-top:30px" height=300px src={{ .Params.Trailer | relURL }}>
+            <img style="padding-top:30px;" height=300px src={{ .Params.Trailer | relURL }}>
             <div class="splash-caption-tweak">
               {{ .Params.Splash.Caption | markdownify }}
             </div>
@@ -25,6 +27,7 @@
             {{ .Params.Splash.Suffix | markdownify }}
           </div>
         {{ end }}
+    </div>
     </div>
   </div>
 </section>

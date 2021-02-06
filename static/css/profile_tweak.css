@@ -9,14 +9,14 @@
 
 /* ---------------- tweaked formatting for the splash images ---------------- */
 
-.splash-container {
+.splash-container-3 {
   width: 100%;
   position: relative;
   padding-left: 0;
   padding-right: 0;
 }
 
-.splash-image-profile {
+.splash-image-profile-3 {
   height: 550px;
   background-position: center;
   background-repeat: no-repeat;
