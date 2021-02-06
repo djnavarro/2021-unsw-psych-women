@@ -26,7 +26,8 @@
   padding-bottom: 15px;
 }
 
-@media (max-width: 1199px) {  /* medium screens */
+
+@media (max-width: 991px) { /* small screens */
   .splash-caption-main-2 {
     font-size: 250%;
   }
@@ -35,7 +36,8 @@
   }
 }
 
-@media (max-width: 991px) { /* small screens */
+
+@media (max-width: 741px) { /* very small screens */
   .splash-caption-main-2 {
     font-size: 150%;
   }
@@ -43,6 +45,7 @@
     font-size: 100%;
   }
 }
+
 
 
 .splash-image-profile-2 {
