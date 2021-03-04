@@ -3,7 +3,7 @@ output: hugodown::md_document
 title: "Dr Negin Hesam-Shariati"
 date: 2021-03-06
 summary: ""
-trailer: "/profile_image/Negin-Hesam-Shariatai.jpg"
+trailer: "/profile_image/Negin-Hesam-Shariati.jpg"
 splash:
   image: "/splash/banner.jpg"
   caption: "Dr Negin Hesam-Shariati"
