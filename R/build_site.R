@@ -26,6 +26,8 @@ profiles <- here("static", "profile_text.csv") %>%
 
 write_profile_rmd <- function(profile) {
 
+  cat(profile$name, "\n")
+
   lines <- c(
     '---',
     'output: hugodown::md_document',

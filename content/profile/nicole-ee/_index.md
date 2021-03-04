@@ -1,0 +1,20 @@
+---
+output: hugodown::md_document
+title: "Nicole Ee"
+date: 2021-03-06
+summary: ""
+trailer: "/profile_image/Nicole-Ee.jpg"
+splash:
+  image: "/splash/banner.jpg"
+  caption: "Nicole Ee"
+rmd_hash: f50629b26ed87b96
+
+---
+
+> Nicole is a Psychology PhD student at UNSW and NeuRA, and Westpac Future Leaders Scholar. Her research seeks to explore the relationship between social engagement, wellbeing and cognition in older adulthood. More broadly, she is interested in intersectionality between community, infrastructure, societal expectations of ageing and their impact on meaningful participation into late life.
+> <blockquote>
+> <p>
+> <i>"To me gender equity means balance in respect, as opposed to just balance in numbers."</i>
+> </p>
+> </blockquote>
+

@@ -1,0 +1,12 @@
+---
+output: hugodown::md_document
+title: "Dr Lydia Hayward"
+date: 2021-03-06
+summary: ""
+trailer: "/profile_image/Lydia-Hayward.jpg"
+splash:
+  image: "/splash/banner.jpg"
+  caption: "Dr Lydia Hayward"
+---
+
+> Lydia is a postdoctoral researcher whose work lies at the intersection of social and health psychology. Her research explores the causes and consequences of prejudice. She investigates how positive contact with people from stigmatized groups can reduce prejudice (i.e., racism, weight bias), and how negative contact may increase it. Her work also investigates how experiencing stigma is harmful for members of stigmatized groups. For example, people who are overweight or obese face frequent stigma and discrimination because of their weight, and this is associated with poorer psychological well-being and reduced motivation to engage in health behaviours like eating healthy and exercising.
