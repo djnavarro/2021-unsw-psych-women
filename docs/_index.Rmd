@@ -6,7 +6,7 @@ splash:
   image: "./splash/banner.jpg"
   caption: "UNSW Women in Psychological Science"
   suffix: "International Women's Day 2021"
-trailer: "./splash/image1_smol.jpg"
+trailer: "./splash/iwd_banner.jpg"
 ---
 
 International Women’s Day exists to celebrate the social, economic, cultural and political achievements of women around the world, and dates back to the first meeting in 1911. Beyond celebration, however, the day is also call to action. It presents an opportunity to build a world in which everyone has an equal opportunity to participate fully in society. Each year the International Women’s Day has a different focus, and in 2021 the United Nations theme highlights [women in leadership](https://www.unwomen.org/en/news/in-focus/international-womens-day).
